@@ -11,7 +11,7 @@ I decided to extract the forms and wrangle them into a structured format
 to see what trends become apparent. You can see my blog post with more detail
 [here]().
 
-* filings.ipynb has the Python wrangling script
+* nq_wrangling.py has the Python wrangling script
 * CIKs.csv has a list of SEC registered companies by CIK (Central Index Key)
 * companylist.csv has a list of publicly traded companies on NYSE/NASDAQ
 * filings_sample folder has examples of forms downloaded through 
