@@ -1,0 +1,953 @@
+<SEC-DOCUMENT>0000891092-17-003534.txt : 20170428
+<SEC-HEADER>0000891092-17-003534.hdr.sgml : 20170428
+<ACCEPTANCE-DATETIME>20170428115458
+ACCESSION NUMBER:		0000891092-17-003534
+CONFORMED SUBMISSION TYPE:	N-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20170331
+FILED AS OF DATE:		20170428
+DATE AS OF CHANGE:		20170428
+EFFECTIVENESS DATE:		20170428
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CENTRAL SECURITIES CORP
+		CENTRAL INDEX KEY:			0000018748
+		IRS NUMBER:				131875970
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		N-Q
+		SEC ACT:		1940 Act
+		SEC FILE NUMBER:	811-00179
+		FILM NUMBER:		17793023
+
+	BUSINESS ADDRESS:	
+		STREET 1:		630 FIFTH AVENUE
+		STREET 2:		SUITE 820
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10111
+		BUSINESS PHONE:		212-698-2020
+
+	MAIL ADDRESS:	
+		STREET 1:		630 FIFTH AVENUE
+		STREET 2:		SUITE 820
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10111
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRANS CENTRAL SECURITIES CORP
+		DATE OF NAME CHANGE:	19700722
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BUERGER LADET & RADINSKY INC
+		DATE OF NAME CHANGE:	19671026
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>N-Q
+<SEQUENCE>1
+<FILENAME>e73932nq.htm
+<DESCRIPTION>FORM N-Q
+<TEXT>
+
+<HTML>
+<HEAD>
+   <TITLE></TITLE>
+</HEAD>
+
+<BODY bgcolor="#ffffff" style="font-family: 'Times New Roman';font-size: 10pt;">
+
+
+<!--$$/page=-->
+<BR>
+
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif">
+United States<BR>
+Securities and Exchange Commission<BR>
+Washington, DC 20549</P>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif">
+FORM N-Q</P>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif">
+QUARTERLY SCHEDULE OF PORTFOLIO HOLDINGS OF<BR>
+REGISTERED MANAGEMENT INVESTMENT COMPANY</P>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif">
+Investment Company Act file number 811-00179</P>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif">
+Central Securities Corporation<BR>
+(Exact name of registrant as specified in charter)<BR>
+630 Fifth Avenue, Eighth Floor<BR>
+New York, N.Y. 10111<BR>
+(Address of principal executive offices)</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+Registrant&rsquo;s telephone number including area code: 212-698-2020</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+Date of fiscal year end: December 31<BR>
+Date of reporting period: March 31, 2017</P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+
+<!--$$/page=-->
+<BR>
+
+
+<P style="text-align: center;">
+<B></B></P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+Item 1. Schedule of Investments.</P>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif"><B>CENTRAL SECURITIES CORPORATION</B><BR>
+<B>Statement of Investments</B><BR>
+<B>March 31, 2017</B><BR>
+<B>(Unaudited)</B></P>
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif">
+<B>COMMON STOCKS 92.1%</B></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="3" STYLE="font-weight: bold; font-style: italic; text-align: center; border-bottom: Black 1pt solid">Shares</TD><TD STYLE="padding-bottom: 1pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center">&nbsp;</TD><TD STYLE="font-weight: bold; font-style: italic; padding-bottom: 1pt; text-align: center">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="font-weight: bold; font-style: italic; text-align: center; border-bottom: Black 1pt solid">Value</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Banks 6.6%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 1%; text-align: left">&nbsp;</TD><TD STYLE="width: 6%; text-align: right">300,000</TD><TD STYLE="width: 1%; text-align: left">&nbsp;</TD><TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9.01pt; width: 72%">Citigroup Inc.</TD><TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">$</TD><TD STYLE="width: 8%; text-align: right">17,946,000</TD><TD STYLE="width: 1%; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">200,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9pt">JPMorgan Chase &amp; Co.</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">17,568,000</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">220,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 8.97pt">Wells Fargo &amp; Company</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">12,245,200</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">47,759,200</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Commercial Services 1.3%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">700,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9.03pt">Heritage-Crystal Clean, Inc. (a)</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">9,590,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Consumer Durables 1.2%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">700,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 8.98pt">TRI Pointe Group, Inc. (a)</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">8,778,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Consumer Services 0.5%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">30,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 8.99pt">Wynn Resorts Ltd.</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">3,438,300</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Diversified Financial 10.1%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">150,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9.03pt">American Express Company</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">11,866,500</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">400,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9.01pt">The Bank of New York Mellon Corporation</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">18,892,000</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">10</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.99pt">Berkshire Hathaway Inc. Class A (a)</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">2,498,500</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">290,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9.01pt">Capital One Financial Corporation</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">25,131,400</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">210,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.97pt">The Charles Schwab Corporation</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">8,570,100</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">200,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9pt">Encore Capital Group, Inc. (a)</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">6,160,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">73,118,500</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left">Diversified Industrial 5.4%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">405,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9.01pt">Brady Corporation Class A</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">15,653,250</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">307,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9.02pt">General Electric Company</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">9,148,600</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">70,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 8.98pt">Roper Technologies, Inc.</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">14,454,300</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">39,256,150</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Energy 2.0%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">230,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.99pt">Murphy Oil Corporation</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">6,575,700</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">125,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9.02pt">Occidental Petroleum Corporation</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">7,920,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">14,495,700</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Health Care 6.0%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">85,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.97pt">Johnson &amp; Johnson</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">10,586,750</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">250,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.98pt">Medtronic plc</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">20,140,000</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">200,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9.02pt">Merck &amp; Co. Inc.</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">12,708,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">43,434,750</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Insurance 20.3%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">12,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.98pt">AIA Group Ltd. ADR</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">304,500</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">21,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.99pt">Alleghany Corporation (a)</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">12,907,860</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">28,424</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9pt">The Plymouth Rock Company, Inc. Class A (b)(c)</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">127,908,000</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">160,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9.02pt">Progressive Corporation</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">6,268,800</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">147,389,160</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+</TABLE>
+
+<P style="MARGIN:0px">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+<!--$$/page=--><BR>
+
+
+
+
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="3" STYLE="font-weight: bold; font-style: italic; text-align: center; border-bottom: Black 1pt solid">Shares</TD><TD STYLE="padding-bottom: 1pt; text-align: center">&nbsp;</TD>
+    <TD STYLE="text-align: center">&nbsp;</TD><TD STYLE="font-weight: bold; font-style: italic; padding-bottom: 1pt; text-align: center">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="font-weight: bold; font-style: italic; text-align: center; border-bottom: Black 1pt solid">Value</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Media 4.7%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 1%; text-align: left">&nbsp;</TD><TD STYLE="width: 6%; text-align: right">18,000</TD><TD STYLE="width: 1%; text-align: left">&nbsp;</TD><TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 72%; text-align: left; text-indent: 8.99pt">Cable One, Inc.</TD><TD STYLE="width: 5%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">$</TD><TD STYLE="width: 8%; text-align: right">11,240,460</TD><TD STYLE="width: 1%; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">200,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9.02pt">John Wiley &amp; Sons, Inc. Class A</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">10,760,000</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">210,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.97pt">Liberty Global plc Class C (a)</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">7,358,400</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">200,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9.02pt">Liberty Global plc LiLAC Class C (a)</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">4,608,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">33,966,860</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Metals and Mining 0.3%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">150,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9.01pt">Freeport-McMoRan Inc. (a)</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">2,004,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Real Estate 3.0%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">102,300</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9pt">Kennedy-Wilson Holdings, Inc.</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">2,271,060</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">700,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9pt">Rayonier Inc.</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">19,838,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">22,109,060</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Retailing 2.9%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">13,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.99pt">Amazon.com, Inc. (a)</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">11,525,020</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">100,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9.02pt">Tiffany &amp; Co.</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">9,530,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">21,055,020</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Semiconductor 9.4%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">450,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.97pt">Analog Devices, Inc.</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">36,877,500</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">880,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9.01pt">Intel Corporation</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">31,741,600</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">68,619,100</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; text-indent: 0pt">Software and Services 2.1%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">10,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.99pt">Alphabet Inc. Class A (a)</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">8,478,000</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">100,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9.01pt">Microsoft Corporation</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">6,586,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">15,064,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="font-weight: bold">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left">Technology Hardware and Equipment 16.3%</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">370,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 8.98pt">Coherent, Inc. (a)</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">76,086,800</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">310,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9.02pt">Keysight Technologies, Inc. (a)</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">11,203,400</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">300,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9.01pt">Motorola Solutions, Inc.</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">25,866,000</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">750,000</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 9.02pt">Sonus Networks, Inc. (a)</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">4,942,500</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">118,098,700</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 36pt">Total Common Stocks (cost $310,225,223)</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">668,176,500</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9" STYLE="font-weight: bold; text-align: center">SHORT-TERM INVESTMENTS 7.2%</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="3" STYLE="border-bottom: Black 1pt solid; font-weight: bold; font-style: italic; text-align: center"><B><I>Principal</I></B></TD><TD STYLE="font-weight: bold; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="font-weight: bold; text-align: left; padding-bottom: 1pt; text-indent: 0pt">U.S. Treasury Bills 7.2%</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">$</TD><TD STYLE="text-align: right">52,000,000</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 9.02pt">U.S. Treasury Bills 0.51% - 0.75%, due 4/6/17 &ndash; 6/8/17 (d)</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; padding-left: 18pt">(cost $51,969,249)</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">51,969,249</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left; text-indent: 36pt">Total Investments (cost $362,194,472) (e)(99.3%)</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">720,145,749</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 0pt">Cash, receivables and other assets less liabilities (.7%)</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">5,371,791</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="9">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 2.5pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 2.5pt; text-align: right">&nbsp;</TD><TD STYLE="padding-bottom: 2.5pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="text-align: left; padding-bottom: 2.5pt; text-indent: 0pt">Net Assets (100%)</TD><TD STYLE="padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; text-align: right">725,517,540</TD><TD STYLE="padding-bottom: 2.5pt; text-align: left">&nbsp;</TD></TR>
+</TABLE>
+<P style="MARGIN: 0px">&nbsp;</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">(a) Non-dividend paying.</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">(b) Affiliate as defined in the Investment Company Act of 1940. See Note 4. </P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">(c) Valued based on Level 3 Inputs. See Note 2.</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">(d) Valued based on Level 2 Inputs. See Note 2.</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0">(e) Aggregate cost for Federal tax purposes is substantially the same.</P>
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif; margin-top: 9pt; margin-bottom: 9pt">See accompanying notes to statement of investments.</P>
+
+
+<!-- Field: Page; Sequence: 3 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+<!--$$/page=-->
+<BR>
+
+
+<P STYLE="text-align: center; font: 10pt Times New Roman, Times, Serif">
+<B>CENTRAL SECURITIES CORPORATION</B><BR>
+<B>NOTES TO STATEMENT OF INVESTMENTS</B></P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+1.&nbsp; Security Valuation &ndash; Marketable common stocks are valued at the last or closing sale price or, if unavailable, at the closing bid price. Short-term investments are valued at amortized cost, which approximates fair value. Securities for which no
+ready market exists are valued at estimated fair value pursuant to procedures adopted by the Board of Directors. The determination of fair value involves subjective judgments. As a result, using fair value to price a security may result in a price
+materially different from the price used by other investors or the price that may be realized upon the actual sale of the security.</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt; margin-left: 0; text-indent: 0.5in">As
+of March 31, 2017, the tax cost of investments was $362,194,472. Net unrealized appreciation was $357,951,277 consisting of gross
+unrealized appreciation and gross unrealized depreciation of $375,268,881 and $17,317,604, respectively.</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin-bottom: 0pt">
+2. &nbsp;Fair Value Measurements &ndash; The Corporation&rsquo;s investments are categorized below in three broad hierarchical levels based on market price observability as follows:</P>
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left">&bull;</TD><TD>Level 1 &ndash; Quoted prices in active markets for
+identical investments;</TD>
+</TR></TABLE>
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left">&bull;</TD><TD>Level 2 &ndash; Other significant observable inputs
+obtained from independent sources, for example, quoted prices in active markets for similar investments;</TD>
+</TR></TABLE>
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0.25in"></TD><TD STYLE="width: 0.25in; text-align: left">&bull;</TD><TD>Level 3 &ndash; Significant unobservable inputs including
+the Corporation&rsquo;s own assumptions based upon the best information available. The Corporation&rsquo;s only Level 3 investment
+is The Plymouth Rock Company, Inc. Class A Common Stock (&ldquo;Plymouth Rock&rdquo;).</TD>
+</TR></TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt; margin-left: 0; text-indent: 0.5in">The
+designated Level for a security is not necessarily an indication of the risk associated with investing in that security.</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt; margin-left: 0; text-indent: 0.5in">The
+Corporation&rsquo;s investments as of March 31, 2017 are classified as follows:</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER" STYLE="border-collapse: collapse; width: 85%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="text-align: center; border-bottom: Black 1pt solid">Level 1</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="text-align: center; border-bottom: Black 1pt solid">Level 2</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="text-align: center; border-bottom: Black 1pt solid">Level 3</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="3" STYLE="text-align: center; border-bottom: Black 1pt solid">Total</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 40%; text-align: left">Common stocks</TD><TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">$</TD><TD STYLE="width: 10%; text-align: right">540,268,500</TD><TD STYLE="width: 1%; text-align: left">&nbsp;</TD><TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">&nbsp;</TD><TD STYLE="width: 10%; text-align: center">-</TD><TD STYLE="width: 1%; text-align: left">&nbsp;</TD><TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">$</TD><TD STYLE="width: 10%; text-align: right">127,908,000</TD><TD STYLE="width: 1%; text-align: left">&nbsp;</TD><TD STYLE="width: 3%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">$</TD><TD STYLE="width: 10%; text-align: right">668,176,500</TD><TD STYLE="width: 1%; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; padding-bottom: 1pt">Short-term investments</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: center">-</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">$</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">51,969,249</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: center">-</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">51,969,249</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; padding-bottom: 2.5pt">Total investments</TD><TD STYLE="padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; text-align: right">540,268,500</TD><TD STYLE="padding-bottom: 2.5pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; text-align: right">51,969,249</TD><TD STYLE="padding-bottom: 2.5pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; text-align: right">127,908,000</TD><TD STYLE="padding-bottom: 2.5pt; text-align: left">&nbsp;</TD><TD STYLE="padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; text-align: right">720,145,749</TD><TD STYLE="padding-bottom: 2.5pt; text-align: left">&nbsp;</TD></TR>
+</TABLE>
+
+<P style="MARGIN:0px">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt; margin-left: 0; text-indent: 0.5in">The
+following is a reconciliation of the change in the value of Level 3 investments:</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" ALIGN="CENTER" STYLE="border-collapse: collapse; width: 75%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 80%; text-align: left">Balance at December 31, 2016</TD><TD STYLE="width: 10%">&nbsp;</TD>
+    <TD STYLE="width: 1%; text-align: left">$</TD><TD STYLE="width: 8%; text-align: right">125,065,600</TD><TD STYLE="width: 1%; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; text-indent: 0pt">Change in net unrealized appreciation</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; text-indent: 5.04pt">of investments included in net increase</TD><TD>&nbsp;</TD>
+    <TD STYLE="text-align: left">&nbsp;</TD><TD STYLE="text-align: right">&nbsp;</TD><TD STYLE="text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; padding-bottom: 1pt; text-indent: 5.03pt">in net assets resulting from operations</TD><TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; text-align: right">2,842,400</TD><TD STYLE="padding-bottom: 1pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="text-align: left; padding-bottom: 2.5pt; text-indent: 0pt">Balance at March 31, 2017</TD><TD STYLE="padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; text-align: right">127,908,000</TD><TD STYLE="padding-bottom: 2.5pt; text-align: left">&nbsp;</TD></TR>
+</TABLE>
+
+<P style="MARGIN:0px">&nbsp;</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt; margin-left: 0; text-indent: 0.5in">Unrealized
+appreciation of Level 3 investments held as of March 31, 2017 increased by $2,842,400 during the three months ended March 31,
+2017, which is included in the above table.</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt; margin-left: 0; text-indent: 0.5in">In
+valuing the Plymouth Rock Level 3 investment as of March 31, 2017, management used a number of significant unobservable inputs
+to develop a range of possible values for the investment. It used a comparable company approach that utilized the following valuation
+multiples from selected publicly traded companies: price-to-book value (range: 0.7 &ndash; 2.9); price-to-earnings (range: 11.5
+&ndash; 29.8); and price-to-revenue (range: 0.6 &ndash; 1.3). Management also used a discounted cash flow model based on a forecasted
+return on equity ranging from 7%-8% and a weighted average cost of capital of 10%. An independent valuation of Plymouth Rock&rsquo;s
+shares was also considered. The value obtained from weighting the three methods described above (with greater weight given to
+the comparable company approach) was then discounted for the lack of marketability by 20% and 40%, which represents the range
+of rates management believes market participants would apply. The resulting range of values, together with the underlying support,
+other information about Plymouth Rock&rsquo;s financial condition and results of operations, its corporate governance, the insurance
+industry outlook and transacted values in Plymouth Rock&rsquo;s shares, were considered by the Corporation&rsquo;s directors,
+who selected the value for the investment.</P>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 10pt; margin-left: 0; text-indent: 0.5in">Significant
+increases (decreases) in the value of the price-to-book value multiple, price-to-earnings</P>
+
+
+<!-- Field: Page; Sequence: 4 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+
+<!--$$/page=-->
+<BR>
+
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+multiple, price-to-revenue multiple and return on equity in isolation would result in a higher (lower) range of fair value measurements. Significant increases (decreases) in the value of the discount for lack of marketability or weighted average cost of
+capital in isolation would result in a lower (higher) range of fair value measurements.</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif"> 3. &nbsp;Restricted Securities &ndash;  The
+Corporation may from time to time invest in securities the resale of which is restricted. On March 31, 2017, the
+Corporation&rsquo;s only restricted security consisted of 28,424 shares of Plymouth Rock Class A stock that  were acquired on
+December 15, 1982 at a cost of $710,600. This security had a value of $127,908,000 at March 31, 2017, which was equal to
+17.6% of the Corporation&rsquo;s net assets. The Corporation does not have the right to demand registration  of the Plymouth
+Rock shares.</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+4. &nbsp;Affiliated Companies &ndash; Plymouth Rock is an affiliated company as defined in the Investment Company Act of 1940 due to the Corporation&rsquo;s ownership of 5% or more of Plymouth Rock&rsquo;s outstanding voting shares. During the three months ended
+March 31, 2017, the Corporation received dividends of $2,225,883 from Plymouth Rock. The President of the Corporation is a director of Plymouth Rock.</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif; margin-bottom: 0in; margin-top: 0">&nbsp;</P>
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">Item 2. Controls and Procedures.</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+(a) Disclosure Controls and Procedures. The Principal Executive and Financial Officers have concluded that the Registrant&rsquo;s Disclosure Controls and Procedures are effective based on their evaluation of the Disclosure Controls and Procedures as of a
+date within 90 days of the filing date of this report.</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+(b) Internal Control Over Financial Reporting. During the last fiscal quarter, there was no significant change in the Registrant&rsquo;s internal control over financial reporting that has materially affected, or is reasonably likely to materially affect,
+the registrant&rsquo;s internal control over financial reporting.</P>
+
+
+<!-- Field: Page; Sequence: 5 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+
+<!--$$/page=-->
+<BR>
+
+
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+Item 3. &nbsp;Exhibits. <BR>
+(a) Certifications.</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+Pursuant to the requirements of the Securities Exchange Act of 1934 and the Investment Company Act of 1940, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+CENTRAL SECURITIES CORPORATION</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 4%; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">By: </FONT></TD>
+    <TD STYLE="width: 5%; font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">/s/</FONT></TD>
+    <TD STYLE="width: 21%; font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Wilmot H. Kidd</FONT></TD>
+    <TD STYLE="width: 70%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">President</FONT></TD></TR>
+</TABLE>
+
+<P style="MARGIN:0px">&nbsp;</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+Date: April 28, 2017</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+Pursuant to the requirements of the Securities Exchange Act of 1934 and the Investment Company Act of 1940, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 4%; font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">By: </FONT></TD>
+    <TD STYLE="width: 5%; font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">/s/</FONT></TD>
+    <TD STYLE="width: 21%; font: 10pt Times New Roman, Times, Serif; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Wilmot H. Kidd</FONT></TD>
+    <TD STYLE="width: 70%; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD STYLE="font: 10pt Times New Roman, Times, Serif">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font: 10pt Times New Roman, Times, Serif"><FONT STYLE="font-size: 10pt">President</FONT></TD></TR>
+</TABLE>
+
+<P style="MARGIN:0px">&nbsp;</P>
+<P style="text-align: left;">
+Date: April 28, 2017</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 10pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 4%"><FONT STYLE="font-size: 10pt">By:</FONT></TD>
+    <TD STYLE="width: 5%; border-bottom: Black 1pt solid">/s/</FONT></TD>
+    <TD STYLE="width: 21%; border-bottom: Black 1pt solid"><FONT STYLE="font-size: 10pt">Lawrence P. Vogel</FONT></TD>
+    <TD STYLE="width: 70%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD COLSPAN="2"><FONT STYLE="font-size: 10pt">Vice President and Treasurer</FONT></TD></TR>
+</TABLE>
+
+<P style="MARGIN:0px">&nbsp;</P>
+<P STYLE="text-align: left; font: 10pt Times New Roman, Times, Serif">
+Date: April 28, 2017</P>
+
+
+<!-- Field: Page; Sequence: 6; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+
+</BODY>
+
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>2
+<FILENAME>e73932ex99.htm
+<DESCRIPTION>CERTIFICATIONS
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY>
+
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 12pt; text-align: right"><B>Exhibit 99</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">I Wilmot H. Kidd, certify that:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">1.&nbsp;&nbsp;I have reviewed this report on Form N-Q of Central
+Securities Corporation;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">2.&nbsp;&nbsp;Based on my knowledge, this report does not contain
+any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">3.&nbsp;&nbsp;Based on my knowledge, the schedules of investments
+included in this report fairly present in all material respects the investments of the registrant as of the end of the fiscal quarter
+for which the report is filed;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">4.&nbsp;&nbsp;The registrant&#8217;s other certifying officer(s)
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Rule 30a-3(c) under the
+Investment Company Act of 1940) and internal control over financial reporting (as defined in Rule 30a-3(d) under the Investment
+Company Act of 1940) for the registrant and have:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(a)&nbsp;&nbsp;Designed such disclosure controls and procedures,
+or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating
+to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during
+the period in which this report is being prepared;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(b)&nbsp;&nbsp;Designed such internal control over financial
+reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in
+accordance with generally accepted accounting principles;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(c)&nbsp;&nbsp;Evaluated the effectiveness of the registrant&#8217;s
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls
+and procedures, as of a date within 90 days prior to the filing date of this report, based on such evaluation; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(d)&nbsp;&nbsp;Disclosed in this report any change in
+the registrant&#8217;s internal control over financial reporting that occurred during the registrant&#8217;s most recent fiscal
+quarter that has materially affected, or is reasonably likely to materially affect, the registrant&#8217;s internal control over
+financial reporting; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">5.&nbsp;&nbsp;The registrant&#8217;s other certifying officer(s)
+and I have disclosed to the registrant&#8217;s auditors and the audit committee of the registrant&#8217;s board of directors (or
+persons performing equivalent functions):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(a)&nbsp;&nbsp;All significant deficiencies and material
+weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect
+the registrant&#8217;s ability to record, process, summarize, and report financial information; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(b)&nbsp;&nbsp;Any fraud, whether or not material, that
+involves management or other employees who have a significant role in the registrant&#8217;s internal control over financial reporting.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; text-decoration: underline"><FONT STYLE="font-size: 10pt"><U>April 28, 2017</U> </FONT></TD>
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: underline"><FONT STYLE="font-size: 10pt"><U>/s/ Wilmot H. Kidd</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt"><FONT STYLE="font-size: 10pt">Date </FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Signature</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: underline"><FONT STYLE="font-size: 10pt"><U>President</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Title</FONT></TD></TR>
+</TABLE>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 6pt"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">I Lawrence P. Vogel, certify that:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">1.&nbsp;&nbsp;I have reviewed this report on Form N-Q of Central
+Securities Corporation;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">2.&nbsp;&nbsp;Based on my knowledge, this report does not contain
+any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">3.&nbsp;&nbsp;Based on my knowledge, the schedules of investments
+included in this report fairly present in all material respects the investments of the registrant as of the end of the fiscal quarter
+for which the report is filed;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">4.&nbsp;&nbsp;The registrant&#8217;s other certifying officer(s)
+and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Rule 30a-3(c) under the
+Investment Company Act of 1940) and internal control over financial reporting (as defined in Rule 30a-3(d) under the Investment
+Company Act of 1940) for the registrant and have:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(a)&nbsp;&nbsp;Designed such disclosure controls and procedures,
+or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating
+to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during
+the period in which this report is being prepared;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(b)&nbsp;&nbsp;Designed such internal control over financial
+reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in
+accordance with generally accepted accounting principles;</P>
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(c)&nbsp;&nbsp;Evaluated the effectiveness of the registrant&#8217;s
+disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls
+and procedures, as of a date within 90 days prior to the filing date of this report, based on such evaluation; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(d)&nbsp;&nbsp;Disclosed in this report any change in
+the registrant&#8217;s internal control over financial reporting that occurred during the registrant&#8217;s most recent fiscal
+quarter that has materially affected, or is reasonably likely to materially affect, the registrant&#8217;s internal control over
+financial reporting; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">5.&nbsp;&nbsp;The registrant&#8217;s other certifying officer(s)
+and I have disclosed to the registrant&#8217;s auditors and the audit committee of the registrant&#8217;s board of directors (or
+persons performing equivalent functions):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(a)&nbsp;&nbsp;All significant deficiencies and material
+weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect
+the registrant&#8217;s ability to record, process, summarize, and report financial information; and</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0 0 0 0.5in">(b)&nbsp;&nbsp;Any fraud, whether or not material, that
+involves management or other employees who have a significant role in the registrant&#8217;s internal control over financial reporting.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 5.4pt; text-decoration: underline"><FONT STYLE="font-size: 10pt"><U>April 28, 2017</U></FONT></TD>
+    <TD STYLE="width: 50%; padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: underline"><FONT STYLE="font-size: 10pt"><U>/s/ Lawrence P. Vogel</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt"><FONT STYLE="font-size: 10pt">Date </FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Signature</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; text-decoration: underline"><FONT STYLE="font-size: 10pt"><U>Vice President and
+    Treasurer</U></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt"><FONT STYLE="font-size: 10pt">Title</FONT></TD></TR>
+</TABLE>
+
+<!-- Field: Page; Sequence: 2; Options: Last -->
+    <DIV STYLE="margin-top: 6pt; margin-bottom: 6pt; border-bottom: Black 4px solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%">&nbsp;</TD><TD STYLE="width: 33%">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 12pt Times New Roman, Times, Serif; margin: 0"></P>
+
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
