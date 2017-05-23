@@ -10,7 +10,7 @@ Analysis, and Retrieval
 I decided to extract the forms and wrangle them into a structured format with 
 columns for stock holdings
 to see what trends become apparent. You can see my blog post with more detail
-[here]().
+[here](https://medium.com/@dwolfATL/c929bc400f6a).
 
 * nq_wrangling.py has the Python wrangling script
 * CIKs.csv has a list of SEC registered companies by CIK (Central Index Key)
