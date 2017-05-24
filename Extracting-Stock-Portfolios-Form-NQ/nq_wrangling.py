@@ -43,64 +43,59 @@ filings = [os.path.basename(x) for x in glob.glob(file_path + '*.txt')]
 counter = 0
 for filing in filings:
     
-    # Allow continuation if error encountered
-    try:
-        # Track progress
-        counter += 1
-        print(str(counter) + ': ' + filing)
+    # Track progress
+    counter += 1
+    print(str(counter) + ': ' + filing)
+    
+    # Read HTML and parse it into a single dataframe for each file
+    file_data = pd.read_html(file_path + filing, flavor='bs4')
+    df = pd.DataFrame(file_data[0])
+    for i in range(1,len(file_data)):
+        df = pd.concat([df,pd.DataFrame(file_data[i])])
+    df.dropna(how='all', inplace=True) # drop rows that are entirely NA
+    
+    # Find which column has the company names by counting first word matches
+    df_firstword = df.apply(lambda x: x.astype(str).str.split().str.get(0))
+    company_col = df_firstword.isin(list(companies['Company_firstword'])).sum().idxmax()
+    
+    # Remove all rows that do not have a company name
+    df['Company_firstword'] = df[company_col].str.split().str.get(0)
+    df['match'] = df['Company_firstword'].isin(list(companies['Company_firstword']))
+    df = df[df['match'] == True]
+    df = df.drop('match', axis=1)
+    
+    # Find the Shares column by finding the column with the most numeric values
+    df_num = df.applymap(lambda x: check_int(x))
+    numeric_cols = df_num.sum().nonzero()
+    shares_col = df.isnull().sum()[numeric_cols[0]].idxmin()
+    df = df[df_num[shares_col] != False]
+    
+    df.rename(columns={company_col: 'Company'}, inplace=True)
+    df.rename(columns={shares_col: 'Shares'}, inplace=True)
+    
+    # Add CIK, Fund name, Form type, Quarter, and File name, and reporting period to the data frame
+    CIK = filing.split("_")[0]
+    df['CIK'] = CIK
+    df['Fund'] = CIKs.loc[CIKs['CIK'].astype(str) == CIK, 'COMPANY_NAME'].iloc[0]
+    df['Form'] = filing.split("_")[1]
+    date = datetime.strptime(filing.split("_")[2], '%Y-%m-%d')
+    df['Quarter_Filed'] = str(date.year) + 'Q' + str((date.month-1)//3 + 1)
+    df['File_Name'] = filing
+    # Extract the reporting period
+    with open (file_path + filing, "r") as myfile:
+        s=myfile.read().replace('\n', '')
+    start = s.find('PERIOD OF REPORT') + 18
+    df['Report_Period'] = s[start:start + 8]
+    
+    df = df[['Company','Shares','CIK','Form','Fund','Quarter_Filed','File_Name','Report_Period']].copy()
+    df.dropna(inplace = True)
+    df.drop_duplicates(inplace = True)
+    
+    if counter == 1:
+        df_master = df
+    else:
+        df_master = pd.concat([df_master,df])
         
-        # Read HTML and parse it into a single dataframe for each file
-        file_data = pd.read_html(file_path + filing, flavor='bs4')
-        df = pd.DataFrame(file_data[0])
-        for i in range(1,len(file_data)):
-            df = pd.concat([df,pd.DataFrame(file_data[i])])
-        df.dropna(how='all', inplace=True) # drop rows that are entirely NA
-        
-        # Find which column has the company names by counting first word matches
-        df_firstword = df.apply(lambda x: x.astype(str).str.split().str.get(0))
-        company_col = df_firstword.isin(list(companies['Company_firstword'])).sum().idxmax()
-        
-        # Remove all rows that do not have a company name
-        df['Company_firstword'] = df[company_col].str.split().str.get(0)
-        df['match'] = df['Company_firstword'].isin(list(companies['Company_firstword']))
-        df = df[df['match'] == True]
-        df = df.drop('match', axis=1)
-        
-        # Find the Shares column by finding the column with the most numeric values
-        df_num = df.applymap(lambda x: check_int(x))
-        numeric_cols = df_num.sum().nonzero()
-        shares_col = df.isnull().sum()[numeric_cols[0]].idxmin()
-        df = df[df_num[shares_col] != False]
-        
-        df.rename(columns={company_col: 'Company'}, inplace=True)
-        df.rename(columns={shares_col: 'Shares'}, inplace=True)
-        
-        # Add CIK, Fund name, Form type, Quarter, and File name, and reporting period to the data frame
-        CIK = filing.split("_")[0]
-        df['CIK'] = CIK
-        df['Fund'] = CIKs.loc[CIKs['CIK'].astype(str) == CIK, 'COMPANY_NAME'].iloc[0]
-        df['Form'] = filing.split("_")[1]
-        date = datetime.strptime(filing.split("_")[2], '%Y-%m-%d')
-        df['Quarter_Filed'] = str(date.year) + 'Q' + str((date.month-1)//3 + 1)
-        df['File_Name'] = filing
-        # Extract the reporting period
-        with open (file_path + filing, "r") as myfile:
-            s=myfile.read().replace('\n', '')
-        start = s.find('PERIOD OF REPORT') + 18
-        df['Report_Period'] = s[start:start + 8]
-        
-        df = df[['Company','Shares','CIK','Form','Fund','Quarter_Filed','File_Name','Report_Period']].copy()
-        df.dropna(inplace = True)
-        df.drop_duplicates(inplace = True)
-        
-        if counter == 1:
-            df_master = df
-        else:
-            df_master = pd.concat([df_master,df])
-        
-    except:
-        print("failed attempt")
-        pass
 
 df_master.to_csv('df_master_intermediate.csv', index=False)
 print("intermediate results written")
